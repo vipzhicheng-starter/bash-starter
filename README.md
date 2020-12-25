@@ -2,9 +2,10 @@
 
 这是一个最简 SHELL 脚本的模板，如果需要自己写 SHELL 脚本的时候，可以基于这个来写，里面有基本的脚本解构，网上找的，我加了点注释。
 
-原文地址：https://betterdev.blog/minimal-safe-bash-script-template/
-作者 Gist: https://gist.github.com/m-radzikowski/53e0b39e9a59a1518990e76c2bff8038
-注：原作者可能会继续优化。
+* 原文地址：https://betterdev.blog/minimal-safe-bash-script-template/
+* 作者 Gist: https://gist.github.com/m-radzikowski/53e0b39e9a59a1518990e76c2bff8038
+
+> 注：原作者可能会继续优化。
 
 ## 其他
 
